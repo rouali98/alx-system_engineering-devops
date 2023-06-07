@@ -1,1 +1,3 @@
-0 string SCHOOL School data
+#!/bin/bash
+0 string 1337_MED 1337_Med data
+l :mime 1337_Med

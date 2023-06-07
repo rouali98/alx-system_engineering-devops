@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A1v | grep -E '^[[:alnum:]]' | paste -sd,
+ls -m
